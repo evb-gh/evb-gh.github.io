@@ -1,5 +1,5 @@
-### [evb.im](https://evb.im/)
+### [evb.im](https://evb.im/) is:
 
-- is using [hugo](https://gohugo.io/)
-- is built with [GitHub Actions](https://github.com/features/actions)
-- is hosted on [GitHub Pages](https://pages.github.com/)
+- using [hugo](https://gohugo.io/)
+- built with [GitHub Actions](https://github.com/features/actions)
+- hosted on [GitHub Pages](https://pages.github.com/)
