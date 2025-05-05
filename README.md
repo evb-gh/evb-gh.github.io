@@ -3,3 +3,4 @@
 - using [hugo](https://gohugo.io/)
 - built with [GitHub Actions](https://github.com/features/actions)
 - hosted on [GitHub Pages](https://pages.github.com/)
+- last update 2025
